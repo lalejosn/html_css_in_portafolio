@@ -96,7 +96,7 @@ body{
     display: flex;
     justify-content: center;
     gap: 10px;
-    border: 2px, solid var(--color-terciario);
+    border: 2px solid var(--color-terciario);
     width: 50%;
     text-align: center;
     border-radius: 8px;
@@ -151,9 +151,8 @@ body{
     .presentacion__contenido {
         width: auto;
     }
-
     .presentacion__imagen {
-    width: 100%;
-    height: auto;
+        width: 100%;
+        height: auto;
     }
 }
