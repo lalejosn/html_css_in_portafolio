@@ -119,8 +119,6 @@ body{
 
 .presentacion__imagen {
     width: 50%;
-    max-width: 100%;
-    height: auto;
 }
 
 .footer {
@@ -152,5 +150,10 @@ body{
     
     .presentacion__contenido {
         width: auto;
+    }
+
+    .presentacion__imagen {
+    width: 100%;
+    height: auto;
     }
 }
